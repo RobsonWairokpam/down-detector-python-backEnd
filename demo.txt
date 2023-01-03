@@ -1,0 +1,6 @@
+1, https://goair.ngopos.com/, GO First Main, 3.6.214.25
+2, https://airasia.ngopos.com/, Air Asia India, 65.1.49.129
+3, https://go.ngopos.com/, nGO Multi Tenant, ----
+4, https://gfuat.ngopos.com/, nGO UAT Server, 3.6.145.177
+5, https://aaiuat.ngopos.com/, nGO UAT Server, 3.6.145.177
+5, https://aaiuat.ngopdfos.com/, nGO UAT Server, 3.6.145.177
